@@ -18,8 +18,11 @@ $iidDB['name'] = "[server-name]";
 > The variavie have to be amended in accordance with the server.
 
 `[server-database]`: the server DataBase link (`www-db.example.com`);
+
 `[server-user]`: the server DataBase username (`dbexample`);
+
 `[XXXXX]`: the server Password;
+
 `[server-name]`: the server Name (`EXAMPLE`);
 
 #### Acknowledgment
