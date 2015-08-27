@@ -15,7 +15,9 @@ $iidDB['name'] = "[server-name]";
 ?>
 ```
 
-> The variavie have to be amended in accordance with the server.
+> The variables must be amended in accordance with the server.
+
+Please change this variables to the Server DataBase variables.
 
 `[server-database]`: the server DataBase link (`www-db.example.com`);
 
