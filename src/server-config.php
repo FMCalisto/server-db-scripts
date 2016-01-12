@@ -1,8 +1,8 @@
 <?php
 
-$iidDB['host'] = "www-db.inesc-id.pt";
-$iidDB['user'] = "dblist";
-$iidDB['pass'] = "db2004ac1";
-$iidDB['name'] = "INESC";
+$iidDB['host'] = "server-database";
+$iidDB['user'] = "server-user";
+$iidDB['pass'] = "XXXXX";
+$iidDB['name'] = "server-name";
 
 ?>
